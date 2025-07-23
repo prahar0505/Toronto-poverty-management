@@ -20,7 +20,7 @@ Through these initiatives, the organization seeks to foster a society where **ev
 
 ## 🧠 Project Overview
 
-The analytical journey in this project is driven by a central question:  
+A central question drives the analytical journey in this project:  
 **How can we use data to identify, understand, and better serve vulnerable individuals at risk of disengagement or reduced outcomes?**
 
 We focused on answering key business questions:
