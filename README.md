@@ -89,10 +89,5 @@ To explore these questions, we implemented the following techniques:
 - Statistical Modeling (Linear Regression, Random Forest)
 - Data Preprocessing and Feature Engineering
 
----
-
-## 🙌 Acknowledgements
-
-We thank **Toronto Poverty Management** for their mission-driven work and for allowing us the opportunity to apply data science in service of social good.
 
 
